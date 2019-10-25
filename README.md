@@ -1,7 +1,7 @@
 # Exploring-the-Bangalore-Neighborhoods
 Objectives of the project  is to define a business problem which figures out the neighborhood  suitable for starting a restaurant business in Bangalore by comparing  different districts within wards (municipalities) of Bangalore City.
 
-# Problem Statement: Prospects of a opening a Restaurant, Close to Office Areas in Bangalore.
+# Problem Statement: Prospects of a opening a Restaurant in Bangalore.
 As we are aware that Bangalore is leading IT hub in India , Daily we have lakhs of IT people migrating from all different state of India to Bangalore.
 With the bloom in IT sector, Retail and Restaurant business are at flourishing and cost of living is increasing day by day. 
 As part of this project we are trying to find the place in Bangalore which is near to office area/Major Tech parks for restaurant that can provide marginal profit and that can go higher with reasonable investments.
